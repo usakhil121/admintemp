@@ -47,14 +47,14 @@
                                     <div class="form-group">
                                         <label class="col-md-12 mb-0">Password</label>
                                         <div class="col-md-12">
-                                            <input type="password" value="password" name="password"
+                                            <input type="password"  name="password"
                                                 class="form-control ps-0 form-control-line">
                                         </div>
                                     </div>
                                     <div class="form-group">
                                         <label class="col-md-12 mb-0">Retype Password</label>
                                         <div class="col-md-12">
-                                            <input type="password" value="retypepassword" name="retypepassword"
+                                            <input type="password"  name="retypepassword"
                                                 class="form-control ps-0 form-control-line">
                                         </div>
                                     </div>
