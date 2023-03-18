@@ -20,7 +20,7 @@ use App\Http\Controllers\Admin\AdminProfilecontroller;
 Route::get('/', function () {
     return view('welcome');
 });
-/* admin */
+/* adminnn */
 
 Route::get('/admin/home',[AdminHomeController::class,'index'])->name('admin_home')->middleware('admin:admin');
 Route::get('/admin/edit-profile',[AdminProfilecontroller::class,'index'])->name('admin_profile')->middleware('admin:admin');
